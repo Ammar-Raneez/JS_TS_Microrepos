@@ -1,0 +1,7 @@
+// create a eslint for each package detailing which sort of files (jsx ? ts ? ) are being linted via parserOptions
+{
+  "extends": "../../.eslintrc",
+  "parserOptions": {
+    "project": "tsconfig.json"
+  }
+} 
