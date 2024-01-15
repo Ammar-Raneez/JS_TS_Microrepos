@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-echo "┏━━━ 📦 Building Workspace ━━━━━━━━━━━━━━━━━━━"
+echo "┏━━━ 📦 BUILDING WORKSPACE ━━━━━━━━━━━━━━━━━━━"
 yarn tsc -b packages

@@ -6,8 +6,10 @@
   "author": "Ammar Raneez",
   "private": true,
   "scripts": {
+    "start": "scripty",
     "build": "scripty",
     "test": "scripty",
+    "dev": "scripty",
     "lint": "scripty",
     "clean": "scripty"
   },
