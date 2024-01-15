@@ -6,7 +6,6 @@
     { "path": "../data" }
   ],
   "compilerOptions": {
-    "composite": true,
     "outDir": "dist",
     "rootDir": "src",
     "jsx": "react"
